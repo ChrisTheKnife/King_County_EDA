@@ -39,8 +39,8 @@ Which estates are
 
 ## Description of the notebooks
 
-* Need #2 will be analysed in [EDA_Amy_RQ2]
-* Need #1 will be analysed in [EDA_Amy_RQ1]. This notebook is Work-in-Progress.
+* Need #2 will be analysed in [EDA_Amy_RQ2](EDA_Amy_RQ2)
+* Need #1 will be analysed in [EDA_Amy_RQ1](EDA_Amy_RQ1). This notebook is Work-in-Progress.
 
 ## Needed datasets
 
